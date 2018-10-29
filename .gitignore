@@ -1,0 +1,27 @@
+# Файлы и папки операционной системы
+.DS_Store
+Thumbs.db
+
+# Файлы редактора
+.idea
+*.sublime*
+
+# Вспомогательные файлы
+*.log
+npm-debug.log*
+node_modules
+
+# Папка с собранными файлами проекта
+build/
+
+# Локальные файлы конфигураций
+.env
+
+# Файлы из материалов к лекции
+package-lock.json
+package.json
+
+# Мусорные файлы
+*.html
+notes.md
+curl.md

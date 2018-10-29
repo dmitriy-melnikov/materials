@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Дамблдор",
+    "colorCoat": "rgb(241, 43, 107)",
+    "colorEyes": "yellow",
+    "colorFireball": "#5ce6c0"
+  },
+  {
+    "name": "Волдеморт",
+    "colorCoat": "rgb(215, 210, 55)",
+    "colorEyes": "black",
+    "colorFireball": "#30a8ee"
+  }
+]
